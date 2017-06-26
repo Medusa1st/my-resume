@@ -1,6 +1,6 @@
 # my-resume
 
-> Myhis ism  my resume.resume.
+> This is my resume.
 
 ## Build Setup
 
