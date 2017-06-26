@@ -16,29 +16,39 @@
               <p>政治面貌：党员</p>
               <p>手机：17717323281</p>
               <p>邮箱：<a href="mailto:littlemeidusha@163.com">littlemeidusha@163.com</a></p>
-              <p>GitHub：<a href="https://github.com/Medusa1st">github.com/Medusa1st</a></p>
+              <p>GitHub：<a href="https://github.com/Medusa1st">github.com/Medusa1st</a>
+              </p>
+              <p>个人网站：<a href="http://medusa1st.me/">medusa1st.me</a></p>
             </div>
           </div>        
           <div class="profile-content-item">
             <div class="profile-content-item-title">个人介绍</div>
             <hr>
             <div class="profile-content-item-main">
-              <p>爱好编程，喜欢研究，保持学习的心态。</p>
-              <p>测试软件工程师起家，接触前端之后产生了极大的兴趣，喜欢研究前端方便的知识，虽然欠缺些艺术细胞，但也希望能把页面做得整洁漂亮，有着成为前端大牛的梦想。</p>
+              <p><b>爱好编程，喜欢钻研，持续学习。</b></p>
+              <p>目前自学前端3个多月，喜欢研究前端方面的知识，虽然欠缺些艺术细胞，但也希望能把客户端做得整洁漂亮，有着成为前端大牛的梦想。</p>
+              <p>之前在大公司的工作经历，让我深知人脉关系和沟通能力的重要性。</p>
+              <p>之前在外企工作和出国培训的经历，让我习惯于阅读英语的文档。</p>
+              <p>之前的项目经历，让我在编程中找到了乐趣。</p>
+              <p>公司氛围是我所看重的，希望能和所有同事“打成一片”。</p>
             </div>
           </div>
           <div class="profile-content-item">
             <div class="profile-content-item-title">教育背景</div>
             <hr>
             <div class="profile-content-item-main">
-              <p>2013.09-2015.05</p>
-              <p>东北大学</p>
-              <p>计算机（硕士）</p>
+              <div class="in-line-info">
+                <p>2013.09-2015.05</p>
+                <p>东北大学</p>
+                <p>计算机（硕士）</p>
+              </div>
               <p>主修课程：计算机控制理论与设计、程序设计方法学、网络互连及Internet技术、计算机视觉技术、智能控制理论与应用。</p>
               <br>
-              <p>2007.09-2011.06</p>
-              <p>上海工程技术大学</p>
-              <p>汽车电子（本科）</p>
+              <div class="in-line-info">
+                <p>2007.09-2011.06</p>
+                <p>上海工程技术大学</p>
+                <p>汽车电子（本科）</p>
+              </div>
               <p>主修课程：汽车概论、数字电子技术、电路分析基础、模拟电子技术、工程项目管理、汽车构造与传动、自动控制理论、现代电力电子学等</p>
             </div>
           </div>
@@ -46,9 +56,11 @@
             <div class="profile-content-item-title">工作经历</div>
             <hr>
             <div class="profile-content-item-main">
-              <p>2011.07-2017.05</p>
-              <p>上海科世达（管理）有限公司</p>
-              <p>测试应用工程师</p>
+              <div class="in-line-info">
+                <p>2011.07-2017.05</p>
+                <p>上海科世达（管理）有限公司</p>
+                <p>测试应用工程师</p>
+              </div>
               <ol>
                 <li>终检测试设备程序的设计、更改、调试以及维护，主要工具VisualStudio和MySQL，语言VB.net和C++。</li>
                 <li>外购测试设备及夹具的鉴定及验收。</li>
@@ -59,14 +71,14 @@
             <div class="profile-content-item-title">项目经历</div>
             <hr>
             <div class="profile-content-item-main">
-              <p>大众线束盘产品终检设计</p>
+              <p><b>大众线束盘产品终检设计</b></p>
               <ol>
                 <li>结合大众系列产品的特点，设计和开发能够兼容多种系列产品的终检程序。</li>
                 <li>编写程序使其与整条生产线进行ADS通讯，达到自动化测试的目标。</li>
                 <li>测试数据保存、分析，并优化生产效率和稳定性。</li>
               </ol>
               <br>
-              <p>智能停车页面设计（实验室版，仅供展示）</p>
+              <p><b>智能停车页面设计（实验室版，仅供展示）</b></p>
               <ol>
                 <li>使用高德地图js-sdk制作手机html页面，实现用户定位、停车位标记、停车位选择、路线导航、支付等功能。</li>
                 <li>实现个人信息和停车历史记录的展示。</li>
@@ -150,5 +162,14 @@
     padding-left: 1rem;
     padding-right: 1rem;
   }
+}
+
+.in-line-info{
+  display:flex;
+  /*justify-content:space-between;*/
+}
+
+.in-line-info p{
+  margin-right: 20px;
 }
 </style>
