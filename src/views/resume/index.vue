@@ -26,11 +26,10 @@
             <hr>
             <div class="profile-content-item-main">
               <p><b>爱好编程，喜欢钻研，持续学习。</b></p>
-              <p>目前自学前端3个多月，喜欢研究前端方面的知识，虽然欠缺些艺术细胞，但也希望能把客户端做得整洁漂亮，有着成为前端大牛的梦想。</p>
+              <p>自学前端半年，喜欢研究前端方面的知识，虽然欠缺些艺术细胞，但也希望能把客户端做得整洁漂亮，有着成为前端大牛的梦想。</p>
               <p>之前在大公司的工作经历，让我深知人脉关系和沟通能力的重要性。</p>
               <p>之前在外企工作和出国培训的经历，让我习惯于阅读英语的文档。</p>
               <p>之前的项目经历，让我在编程中找到了乐趣。</p>
-              <p>公司氛围是我所看重的，希望能和所有同事“打成一片”。</p>
             </div>
           </div>
           <div class="profile-content-item">
@@ -68,22 +67,31 @@
             </div>
           </div>
           <div class="profile-content-item">
-            <div class="profile-content-item-title">项目经历</div>
+            <div class="profile-content-item-title">项目经历(不分先后)</div>
             <hr>
             <div class="profile-content-item-main">
               <p><b>大众线束盘产品终检设计</b></p>
-              <ol>
+              <ul>
                 <li>结合大众系列产品的特点，设计和开发能够兼容多种系列产品的终检程序。</li>
                 <li>编写程序使其与整条生产线进行ADS通讯，达到自动化测试的目标。</li>
                 <li>测试数据保存、分析，并优化生产效率和稳定性。</li>
-              </ol>
+              </ul>
+              <p>收获经验：实现了一个产品的完整的测试程序，对一个项目的整体搭建和模块化编程有了更深入了理解。</p>
+              <br>
+              <p><b>个人网站</b></p>
+              <ul>
+                <li>我在阿里云上的个人服务器网站:<a href="http://medusa1st.me">medusa1st.me</a></li>
+                <li>服务器环境：ubuntu16.04 + nginx + mysql + php7</li>
+              </ul>
+              <p>收获经验：实现了一个产品的完整的测试程序，对一个项目的整体搭建和模块化编程有了更深入了理解。</p>
               <br>
               <p><b>智能停车页面设计（实验室版，仅供展示）</b></p>
-              <ol>
+              <ul>
                 <li>使用高德地图js-sdk制作手机html页面，实现用户定位、停车位标记、停车位选择、路线导航、支付等功能。</li>
                 <li>实现个人信息和停车历史记录的展示。</li>
-              </ol>   
-              <p>Demo托管在以下链接<a href="http://medusa1st.me/livepark">medusa1st.me/livepark</a>，或通过手机扫描二维码访问。</p> 
+              </ul>
+              <p>收获经验：对浏览器的兼容性、vue框架和webpack等工具有了进一步的认识。</p>
+              <p>Demo托管在以下链接<a href="http://medusa1st.me/livepark/wxToShow/wxBaby.php">http://medusa1st.me/livepark/wxToShow/wxBaby.php</a>，需通过微信扫描二维码访问。</p> 
               <div class="barcode"><img src="../../assets/project-demo1.png"></div>
             </div>
           </div>
