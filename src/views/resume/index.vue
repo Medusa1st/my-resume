@@ -85,13 +85,13 @@
               </ul>
               <p>收获经验：实现了一个产品的完整的测试程序，对一个项目的整体搭建和模块化编程有了更深入了理解。</p>
               <br>
-              <p><b>智能停车页面设计（实验室版，仅供展示）</b></p>
+              <p><b>智能停车页面设计</b></p>
               <ul>
                 <li>使用高德地图js-sdk制作手机html页面，实现用户定位、停车位标记、停车位选择、路线导航、支付等功能。</li>
                 <li>实现个人信息和停车历史记录的展示。</li>
               </ul>
               <p>收获经验：对浏览器的兼容性、vue框架和webpack等工具有了进一步的认识。</p>
-              <p>Demo托管在以下链接<a href="http://medusa1st.me/livepark/wxToShow/wxBaby.php">http://medusa1st.me/livepark/wxToShow/wxBaby.php</a>，需通过微信扫描二维码访问。</p> 
+              <p>Demo托管在以下链接<a href="http://www.liveparkchina.com">http://www.liveparkchina.com</a>，需通过微信扫描二维码访问。</p> 
               <div class="barcode"><img src="../../assets/project-demo1.png"></div>
             </div>
           </div>
